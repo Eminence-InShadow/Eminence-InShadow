@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **DATASTRUCTURES AND ALGORITHMS**
 
 - 💬 Ask me about **MATH**
-<img align="right" alt="coding" width="300" src="https://i.gifer.com/Cwgf.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/Cwgf.gif">
 - 📫 How to reach me **eminenceinjaswanth@gmail.com**
 
 - ⚡ Fun fact **“I think I’m very lazy 🥱, so I always try to figure out an easier way to solve difficult problems ✌️.**
