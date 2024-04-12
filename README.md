@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm JASWANTH KUMAR</h1>
 <h3 align="center">From lost interest to focused learning, I’m scripting my own comeback story.</h3>
-<img align="right" src="https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/Design%20Your%20Ink_%20Exploring%20the%20World%20of%20Tattoo%20Design.jpeg" alt="Logo">
+<img align="right" width="400" src="https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/Design%20Your%20Ink_%20Exploring%20the%20World%20of%20Tattoo%20Design.jpeg" alt="Logo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminence-inshadow&label=Profile%20views&color=0e75b6&style=flat" alt="eminence-inshadow" /> </p>
 
