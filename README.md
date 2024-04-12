@@ -1,3 +1,5 @@
+![logo](https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/banner.gif)
+
 <h1 align="center">Hi 👋, I'm JASWANTH KUMAR</h1>
 <h3 align="center">From lost interest to focused learning, I’m scripting my own comeback story.</h3>
 
