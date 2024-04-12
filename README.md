@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm JASWANTH KUMAR</h1>
 <h3 align="center">From lost interest to focused learning, I’m scripting my own comeback story.</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/Cwgf.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eminence-inshadow&label=Profile%20views&color=0e75b6&style=flat" alt="eminence-inshadow" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eminence-inshadow&label=Profile%20views&color=0e75b6&style=flat" alt="eminence-inshadow" /> </p>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/Cwgf.gif">
 - 🌱 I’m currently learning **DATASTRUCTURES AND ALGORITHMS**
 
 - 💬 Ask me about **MATH**
