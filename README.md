@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm JASWANTH KUMAR</h1>
 <h3 align="center">From lost interest to focused learning, I’m scripting my own comeback story.</h3>
 
-<img align="right" alt="coding" width="500" src="https://i.gifer.com/Cwgf.gif">
+<img align="right" alt="coding" width="300" src="https://i.gifer.com/Cwgf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminence-inshadow&label=Profile%20views&color=0e75b6&style=flat" alt="eminence-inshadow" /> </p>
 
