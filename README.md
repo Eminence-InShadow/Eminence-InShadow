@@ -8,7 +8,7 @@ The strongest principle of growth lies in the human choice.
 ジョージ・エリオット「ダニエル・デロンダ」
 
 George Eliot, “Daniel Deronda”.</h3>
-<img align="right" width="400" src="https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/Cwgf%20(1).gif" alt="GIF Image">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminence-inshadow&label=Profile%20views&color=0e75b6&style=flat" alt="eminence-inshadow" /> </p>
