@@ -1,7 +1,13 @@
 ![logo](https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm JASWANTH KUMAR</h1>
-<h3 align="center">From lost interest to focused learning, I’m scripting my own comeback story.</h3>
+<h3 align="center">はかを踏むことこそが、成長の最大の原理となる
+
+The strongest principle of growth lies in the human choice.
+
+ジョージ・エリオット「ダニエル・デロンダ」
+
+George Eliot, “Daniel Deronda”.</h3>
 <img align="right" width="400" src="https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/Cwgf%20(1).gif" alt="GIF Image">
 
 
