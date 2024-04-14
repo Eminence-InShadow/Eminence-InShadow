@@ -21,13 +21,7 @@ George Eliot, “Daniel Deronda”.</h3>
 
 - ⚡ Fun fact **“I think I’m very lazy 🥱, so I always try to figure out an easier way to solve difficult problems ✌️.**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/_k_a_i_z_e_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_k_a_i_z_e_n" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/eminence777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eminence777" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/eminence777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eminence777" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eminence777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eminence777" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
@@ -35,4 +29,12 @@ George Eliot, “Daniel Deronda”.</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminence-inshadow" alt="eminence-inshadow" />
-</div>
+</div> 
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://instagram.com/_k_a_i_z_e_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_k_a_i_z_e_n" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/eminence777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eminence777" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/eminence777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eminence777" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/eminence777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eminence777" height="30" width="40" /></a>
+</p>
