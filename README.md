@@ -1,4 +1,4 @@
-![logo](https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/banner.gif)
+![logo](https://github.com/Eminence-InShadow/Eminence-InShadow/blob/main/banner-ezgif.com-resize.gif)
 
 <h1 align="center">Hi 👋, I'm JASWANTH KUMAR</h1>
 <h3 align="center">「何かを選ぶことこそが、成長の最大の糧となる」
