@@ -19,7 +19,7 @@ George Eliot, “Daniel Deronda”.</h3>
 
 - 📫 How to reach me **eminenceinjaswanth@gmail.com**
 
-- ⚡ Fun fact **“I think I’m very lazy 🥱, so I always try to figure out an easier way to solve difficult problems ✌️.**
+- ⚡ Fun fact **“I think I’m very lazy 🥱.**
 
 
 
