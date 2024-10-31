@@ -13,7 +13,7 @@ George Eliot, “Daniel Deronda”.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminence-inshadow&label=Profile%20views&color=0e75b6&style=flat" alt="eminence-inshadow" /> </p>
 
-- 🌱 I’m currently learning **DATASTRUCTURES AND ALGORITHMS THROUGH C , C++**
+- 🌱 I’m currently learning **-> ADVANCED DATASTRUCTURES AND ALGORITHMS THROUGH C++**
 
 - 💬 Ask me about **MATH**
 
